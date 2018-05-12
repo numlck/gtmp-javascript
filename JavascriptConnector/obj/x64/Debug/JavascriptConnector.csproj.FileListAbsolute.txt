@@ -1,0 +1,9 @@
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x64\Debug\JavascriptConnector.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x64\Debug\JavascriptConnector.pdb
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x64\Debug\GrandTheftMultiplayer.Server.exe
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x64\Debug\GrandTheftMultiplayer.Shared.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x64\Debug\Noesis.Javascript.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x64\Debug\JavascriptConnector.csproj.CoreCompileInputs.cache
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x64\Debug\JavascriptConnector.csproj.CopyComplete
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x64\Debug\JavascriptConnector.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x64\Debug\JavascriptConnector.pdb

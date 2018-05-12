@@ -1,0 +1,10 @@
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x86\Debug\JavascriptConnector.csprojResolveAssemblyReference.cache
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x86\Debug\JavascriptConnector.csproj.CoreCompileInputs.cache
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x86\Debug\JavascriptConnector.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x86\Debug\JavascriptConnector.pdb
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x86\Debug\GrandTheftMultiplayer.Server.exe
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x86\Debug\GrandTheftMultiplayer.Shared.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\x86\Debug\Noesis.Javascript.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x86\Debug\JavascriptConnector.csproj.CopyComplete
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x86\Debug\JavascriptConnector.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\x86\Debug\JavascriptConnector.pdb

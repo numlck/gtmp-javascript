@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptConnector", "JavascriptConnector\JavascriptConnector.csproj", "{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|x64.ActiveCfg = Debug|x64
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|x64.Build.0 = Debug|x64
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|x86.ActiveCfg = Debug|x86
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Debug|x86.Build.0 = Debug|x86
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|x64.ActiveCfg = Release|x64
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|x64.Build.0 = Release|x64
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|x86.ActiveCfg = Release|x86
+		{CC9681AC-77B8-43F1-ADBF-2E4121937CCE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {944FB5BE-DD1E-4DD4-A48F-857F8D671C32}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\JavascriptConnector.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\JavascriptConnector.pdb
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\GrandTheftMultiplayer.Server.exe
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\GrandTheftMultiplayer.Shared.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\Debug\JavascriptConnector.csproj.CoreCompileInputs.cache
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\Debug\JavascriptConnector.csproj.CopyComplete
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\Debug\JavascriptConnector.dll
+c:\users\mk\source\repos\JavascriptConnector\JavascriptConnector\obj\Debug\JavascriptConnector.pdb
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\ClearScript.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\Google.Protobuf.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\MySql.Data.dll
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\Google.Protobuf.xml
+C:\Users\mk\source\repos\JavascriptConnector\JavascriptConnector\bin\Debug\MySql.Data.xml
