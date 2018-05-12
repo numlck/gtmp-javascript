@@ -1,8 +1,12 @@
 # JavascriptConnector
 Use Javascript server side for GTMP/GTANetwork
 
-Example
+
 To `require` a file, the file needs to add functions/variables to `exports` inside that file.
+
+
+Example
+
 ```javascript
 
 var r = require("filename.js")
